@@ -23,5 +23,9 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/animus-coop/virtual-queue-token-verifier"
+  }
 }
